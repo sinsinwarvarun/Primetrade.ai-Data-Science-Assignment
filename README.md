@@ -5,4 +5,4 @@ Cluster 0 - Aggresive and performing traders.
 
 Cluster 1 - Good performers and consistent winners
 
-Cluster 3 - Overtraders with less profitability
+Cluster 2 - Overtraders with less profitability
